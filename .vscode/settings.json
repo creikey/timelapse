@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "sokol_gp.h": "c",
+    "d3d11.h": "c",
+    "wcap_capture.h": "c",
+    "sokol_app.h": "c",
+    "wcap.h": "c",
+    "dxgi.h": "c",
+    "windows.h": "c"
+  }
+}
